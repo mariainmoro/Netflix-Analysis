@@ -5,16 +5,23 @@ Este projeto e uma análise aprofundada do dataset da Netflix, com o objetivo de
 
 O dataset abrange uma série de informações vitais sobre os títulos disponíveis na Netflix, incluindo:
 Título: Nome do filme ou série.
+
 Data de Lançamento: Data em que o título foi disponibilizado na plataforma.
+
 Gênero: Classificação do conteúdo (como drama, comédia, suspense, etc.).
+
 Tipo de Conteúdo: Diferenciação entre filmes, séries, documentários, etc.
+
 Classificação de Idade: Faixa etária recomendada para o conteúdo.
+
 Este dataset foi coletado de https://www.kaggle.com/datasets/shivamb/netflix-shows/data
 
 **Ferramentas Detalhadas Utilizadas**
 
 Power BI: Utilizado para criar dashboards interativos e visualizações detalhadas de dados, permitindo a exploração intuitiva das tendências e padrões.
+
 Python (com bibliotecas como Pandas e Matplotlib): Empregado para realizar a limpeza, manipulação e análise exploratória de dados em um nível mais profundo.
+
 Excel: Foi ultilizado para fazer a limpeza e filtragem.
 
 **Metodologia Detalhada**
