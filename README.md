@@ -37,6 +37,7 @@ Desenvolvimento de Visualizações Avançadas: Criação de um conjunto de visua
 Análise Crítica e Interpretação dos Resultados: Avaliação detalhada dos resultados para fornecer insights claros e recomendações baseadas em dados.
 
 **Descobertas Principais e Detalhadas**
+
 Evolução da Biblioteca de Conteúdo: Uma análise ano a ano que destaca como a biblioteca da Netflix evoluiu, com foco no aumento da produção original.
 
 Análise Detalhada de Gênero e Popularidade: Exame aprofundado das preferências de gênero ao longo do tempo e como certos gêneros ganharam ou perderam popularidade.
